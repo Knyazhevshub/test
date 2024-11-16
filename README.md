@@ -1,3 +1,3 @@
 # Hello, World!
 
-I stydy on Netology.
+I study on Netology.
